@@ -1,5 +1,5 @@
 # 🦀 About Me:
-Hi 👋🏻, I’m Mustafa Semih YAMAN.<br>I’m 21 years old.<br>I’m studying Software Engineering at Haliç University.<br>I have experience with Java, Kotlin, Swift, and C#.<br>I started writing code with Java at 12 years old 👦🏻.<br>I have experience with Android app development, iOS app development and mobile game development.<br>I have a game named SirBall.<br>Also I developed app as freelance for companies like Mısırlı Güvenlik, ArmaTrack.<br>I'm currently working at POINTO Teknoloji A.Ş.
+Hi 👋🏻, I’m Mustafa Semih YAMAN.<br>I’m 21 years old.<br>I’m studying Software Engineering at Haliç University.<br>I have experience with Java, Kotlin, Swift, and C#.<br>I started writing code with Java at 12 years old 👦🏻.<br>I have experience with Android app development, iOS app development and mobile game development.<br>I have a game named SirBall.<br>Also I developed apps as freelance for companies like Mısırlı Güvenlik, ArmaTrack.<br>I'm currently working at POINTO Teknoloji A.Ş.
 
 
 ## 🌐 Socials:
