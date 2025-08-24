@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I am Mustafa Semih. I am 23 years old.<br>I am working as Android Developer.<br>I have experience with Java, Kotlin, Jetpack Compose, and I experienced in utilizing the Google’s MVVM architectural pattern, Android UI design principles, Jetpack Libraries, Firebase and popular 3rd party libraries.<br>Also, I have iOS developing experience. I used Swift, UIKit and SwiftUI with MVVM architectural pattern, utilizing the 3rd party libraries such as Alamofire.<br>Additionally, I have developed applications for companies like ArmaTrack and, Erkunt Traktör as a freelancer. Also, I developed an Android game named SirBall.<br>I started Android Development with Java when I was 12 years old.
+Hi, I am Mustafa Semih. I am 24 years old. I am working as Android Developer. 
+I have experience with Java, Kotlin, Jetpack Compose, and I experienced in utilizing the Google’s MVVM architectural pattern, Android UI design principles, Jetpack Libraries (Hilt,Flow, LiveData), LifeCycles, Coroutines , Firebase and popular 3rd party libraries.
+Experienced in integrating RESTful APIs with Retrofit and utilizing Firebase for analytics, notifications and Google Maps API(GMS). Experienced with Git version control system. Experienced with Agile/Scrum methodologies.
+Also, I have iOS developing experience. I used Swift, UIKit and SwiftUI with MVVM architectural pattern, utilizing the 3rd party libraries such as Alamofire.
+Additionally, I have developed applications for companies like ArmaTrack and, Erkunt Traktör as a freelancer. Also, I developed an Android game named SirBall. 
+I started Android Development with Java when I was 12 years old.
 
 
 ## 🌐 Socials:
